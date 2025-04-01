@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Alberto, and I'm from Spain 🇪🇸.
+I'm currently studying Computer Engineering 💻 and Business Administration 🏢.
+I'm also learning Machine Learning 📊 and Generative AI 🧠, aiming to become an expert in the future.
 
 <!--
 **AlbertoSocorro/AlbertoSocorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
