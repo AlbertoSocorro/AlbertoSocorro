@@ -2,9 +2,9 @@
 
 My name is Alberto, and I'm from Spain 🇪🇸.
 
-I'm currently studying Computer Engineering 💻 and Business Administration 🏢.
+I'm currently studying Computer Engineering 💻 and Business Administration 🏢 in Carlos III University of Madrid (UC3M). 
 
-I'm also learning Machine Learning 📊 and Generative AI 🧠, aiming to become an expert in the future.
+I'm also learning Machine Learning 📊 and Generative AI 🧠 by my own.
 
 <!--
 **AlbertoSocorro/AlbertoSocorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
